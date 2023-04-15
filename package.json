@@ -1,0 +1,19 @@
+{
+  "name": "infotastic",
+  "version": "1.0.0",
+  "description": "Take your Bookmarks to the next level.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "links",
+    "bookmarks",
+    "organize"
+  ],
+  "author": "Chris Rowley",
+  "license": "MIT"
+}
